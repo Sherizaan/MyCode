@@ -1,0 +1,6 @@
+id= dnn388changetored
+id= dnn388changetoyellow
+id= dnn388changetomagenta
+
+document.getElementById('dnn388changetoyellow').style.backgroundColor=yellow;
+document.getElementById('dnn388changetomagenta').style.backgroundColor=magenta;

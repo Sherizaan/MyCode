@@ -1,0 +1,6 @@
+make=input('What is the make of the car?')
+model=input('What is the model of the car?')
+year=input('What is the year of the car?')
+colour=input('What is the Colour of the car?')
+print('Make:\t{}\nModel:\t{}\nYear:\t{}\nColour:\t{}\n'.format(make,model,year,colour))
+input('press "enter" button to exit')

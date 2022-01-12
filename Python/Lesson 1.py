@@ -1,0 +1,5 @@
+name=input('What is your name?')
+print('Hello '+ name)
+age=input('How old are you?')
+print('{} you are {} years old'.format(name,age))
+input('press "enter" button to exit')

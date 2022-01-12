@@ -1,0 +1,8 @@
+num1=int(input('first number'))
+num2=int(input('second number'))
+print('{} + {} = {}'.format(num1,num2,(num1 + num2)))
+input('press "enter" button to exit')
+num1=int(input('first number'))
+num2=int(input('second number'))
+print('{} - {} = {}'.format(num1,num2,(num1 - num2)))
+input('press "enter" button to exit')
