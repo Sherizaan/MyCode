@@ -14,5 +14,10 @@ namespace My_First_Mobile_App
         {
             InitializeComponent();
         }
+
+        public void CalculatorButton(object sender, EventArgs e)
+        {
+            DisplayAlert("Calculator", "Under Maintenance", "OK");
+        }
     }
 }

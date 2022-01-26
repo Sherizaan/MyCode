@@ -133,4 +133,10 @@
       <Name>My First Mobile App</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Logo1.png" />
+  </ItemGroup>
 </Project>
