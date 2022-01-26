@@ -991,24 +991,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Intern\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Vinnie\\GT500v\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App.iOS\\My First Mobile App.iOS.csproj",
+      "projectUniqueName": "C:\\Source\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App.iOS\\My First Mobile App.iOS.csproj",
       "projectName": "My First Mobile App.iOS",
-      "projectPath": "C:\\Vinnie\\GT500v\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App.iOS\\My First Mobile App.iOS.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Vinnie\\GT500v\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App.iOS\\obj\\",
+      "projectPath": "C:\\Source\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App.iOS\\My First Mobile App.iOS.csproj",
+      "packagesPath": "C:\\Users\\Intern\\.nuget\\packages\\",
+      "outputPath": "C:\\Source\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Intern\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Vinnie\\GT500v\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App\\My First Mobile App.csproj": {
-              "projectPath": "C:\\Vinnie\\GT500v\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App\\My First Mobile App.csproj"
+            "C:\\Source\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App\\My First Mobile App.csproj": {
+              "projectPath": "C:\\Source\\MyCode\\Xamarin\\My First Mobile App\\My First Mobile App\\My First Mobile App.csproj"
             }
           }
         }

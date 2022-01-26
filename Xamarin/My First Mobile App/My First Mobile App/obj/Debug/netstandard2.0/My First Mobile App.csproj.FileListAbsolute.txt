@@ -1,0 +1,15 @@
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\bin\Debug\netstandard2.0\My First Mobile App.deps.json
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\bin\Debug\netstandard2.0\My First Mobile App.dll
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\bin\Debug\netstandard2.0\ref\My First Mobile App.dll
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\bin\Debug\netstandard2.0\My First Mobile App.pdb
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\My First Mobile App.csproj.AssemblyReference.cache
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\My First Mobile App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\My First Mobile App.AssemblyInfoInputs.cache
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\My First Mobile App.AssemblyInfo.cs
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\My First Mobile App.csproj.CoreCompileInputs.cache
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\My First Mobile App.dll
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\ref\My First Mobile App.dll
+C:\Source\MyCode\Xamarin\My First Mobile App\My First Mobile App\obj\Debug\netstandard2.0\My First Mobile App.pdb
